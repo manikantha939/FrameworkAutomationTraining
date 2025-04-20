@@ -1,0 +1,231 @@
+2025-04-18 11:21:07 INFO  BaseTest:28 - Loading properties file
+2025-04-18 11:22:05 INFO  BaseTest:28 - Loading properties file
+2025-04-18 11:22:08 INFO  BaseTest:47 - Driver instance created for browser: edgeSuccessfully
+2025-04-18 11:22:09 INFO  BaseTest:47 - Driver instance created for browser: chromeSuccessfully
+2025-04-18 11:22:11 INFO  BaseTest:47 - Driver instance created for browser: firefoxSuccessfully
+2025-04-18 11:23:03 INFO  BaseTest:28 - Loading properties file
+2025-04-18 11:23:05 INFO  BaseTest:47 - Driver instance created for browser: edgeSuccessfully
+2025-04-18 11:23:06 INFO  BaseTest:47 - Driver instance created for browser: chromeSuccessfully
+2025-04-18 11:23:08 INFO  BaseTest:47 - Driver instance created for browser: firefoxSuccessfully
+2025-04-18 16:19:00 INFO  BaseTest:28 - Loading properties file
+2025-04-18 16:19:08 INFO  BaseTest:47 - Driver instance created for browser: edgeSuccessfully
+2025-04-18 16:19:10 INFO  BaseTest:47 - Driver instance created for browser: chromeSuccessfully
+2025-04-18 16:19:16 INFO  BaseTest:47 - Driver instance created for browser: firefoxSuccessfully
+2025-04-18 16:20:54 INFO  BaseTest:28 - Loading properties file
+2025-04-18 16:20:56 INFO  BaseTest:28 - Loading properties file
+2025-04-18 16:21:03 INFO  BaseTest:47 - Driver instance created for browser: chromeSuccessfully
+2025-04-18 16:21:03 INFO  BaseTest:47 - Driver instance created for browser: edgeSuccessfully
+2025-04-18 16:21:07 INFO  BaseTest:47 - Driver instance created for browser: chromeSuccessfully
+2025-04-18 16:21:11 INFO  BaseTest:47 - Driver instance created for browser: edgeSuccessfully
+2025-04-18 16:21:20 INFO  BaseTest:47 - Driver instance created for browser: firefoxSuccessfully
+2025-04-18 16:21:30 INFO  BaseTest:62 - EdgeDriver: MicrosoftEdge on windows (adb2724d1f0a2a55c1ee37eced8b678b) Closing the browser
+2025-04-18 16:21:30 INFO  BaseTest:62 - ChromeDriver: chrome on windows (f7d7020d1cc28873e090208b9275734a) Closing the browser
+2025-04-18 16:21:30 INFO  BaseTest:62 - EdgeDriver: MicrosoftEdge on windows (71a24d8a9859b0dcb792c6d348c65111) Closing the browser
+2025-04-18 16:21:30 INFO  BaseTest:62 - ChromeDriver: chrome on windows (1622c095c8943430c51288c7e13ee208) Closing the browser
+2025-04-18 16:21:33 INFO  BaseTest:47 - Driver instance created for browser: firefoxSuccessfully
+2025-04-18 16:21:44 INFO  BaseTest:62 - FirefoxDriver: firefox on windows (98a6945e-f8e8-44d3-8087-8a2c6a5cc205) Closing the browser
+2025-04-18 16:21:55 INFO  BaseTest:62 - FirefoxDriver: firefox on windows (f18d14c4-3e56-4ea1-966a-6cf40fa6d0a3) Closing the browser
+2025-04-18 16:33:25 INFO  BaseTest:28 - Loading properties file
+2025-04-18 16:33:25 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-18 16:33:32 INFO  BaseTest:47 - Driver instance created for browser: chromeSuccessfully
+2025-04-18 16:33:32 INFO  BaseTest:47 - Driver instance created for browser: edgeSuccessfully
+2025-04-18 16:33:34 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-18 16:33:34 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-18 16:33:40 INFO  LoginTest:19 - Login successful
+2025-04-18 16:33:40 INFO  BaseTest:62 - ChromeDriver: chrome on windows (5a69f81c96f787ab7ea761bd5d6ee985) Closing the browser
+2025-04-18 16:33:41 INFO  LoginTest:19 - Login successful
+2025-04-18 16:33:41 INFO  BaseTest:62 - EdgeDriver: MicrosoftEdge on windows (ee2ee2a7bb15cb10664c40f52a8da1cc) Closing the browser
+2025-04-18 16:33:41 INFO  BaseTest:47 - Driver instance created for browser: firefoxSuccessfully
+2025-04-18 16:33:48 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-18 16:33:52 INFO  LoginTest:19 - Login successful
+2025-04-18 16:33:52 INFO  BaseTest:62 - FirefoxDriver: firefox on windows (ca48027e-6af9-4431-94dd-d6f6e942a91e) Closing the browser
+2025-04-18 16:35:43 INFO  BaseTest:29 - Loading properties file
+2025-04-18 16:35:43 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-18 16:35:49 INFO  BaseTest:47 - Driver instance created for browser: edge Successfully
+2025-04-18 16:35:49 INFO  BaseTest:47 - Driver instance created for browser: chrome Successfully
+2025-04-18 16:35:52 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-18 16:35:54 INFO  LoginTest:19 - Login successful
+2025-04-18 16:35:54 INFO  BaseTest:61 - ChromeDriver: chrome on windows (d68e00f45c0d4939ea61f51a5506b46b) Closing the browser
+2025-04-18 16:35:56 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-18 16:35:57 INFO  BaseTest:47 - Driver instance created for browser: firefox Successfully
+2025-04-18 16:36:01 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-18 16:36:01 INFO  LoginTest:19 - Login successful
+2025-04-18 16:36:01 INFO  BaseTest:61 - EdgeDriver: MicrosoftEdge on windows (23490c7c0e7de5c7b322997b8974cbf8) Closing the browser
+2025-04-18 16:36:04 INFO  LoginTest:19 - Login successful
+2025-04-18 16:36:04 INFO  BaseTest:61 - FirefoxDriver: firefox on windows (877c8249-0576-48dd-9575-b95633ba64bf) Closing the browser
+2025-04-18 16:40:10 INFO  BaseTest:29 - Loading properties file
+2025-04-18 16:40:10 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-18 16:46:02 INFO  BaseTest:29 - Loading properties file
+2025-04-18 16:46:02 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-18 16:46:09 INFO  BaseTest:47 - Driver instance created for browser: edge Successfully
+2025-04-18 16:46:09 INFO  BaseTest:47 - Driver instance created for browser: chrome Successfully
+2025-04-18 16:46:11 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-18 16:46:11 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-18 16:46:18 INFO  BaseTest:47 - Driver instance created for browser: firefox Successfully
+2025-04-18 16:46:22 INFO  LoginTest:19 - Login successful
+2025-04-18 16:46:22 INFO  BaseTest:61 - ChromeDriver: chrome on windows (e40c0a645edf799fc4c58ee52552bcb5) Closing the browser
+2025-04-18 16:46:22 INFO  LoginTest:19 - Login successful
+2025-04-18 16:46:22 INFO  BaseTest:61 - EdgeDriver: MicrosoftEdge on windows (55555821b41ba86988321db29717ad02) Closing the browser
+2025-04-18 16:46:23 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-18 16:46:25 INFO  LoginTest:19 - Login successful
+2025-04-18 16:46:25 INFO  BaseTest:61 - FirefoxDriver: firefox on windows (291b2bb9-18bd-4d7a-84af-914fe5a6e3ed) Closing the browser
+2025-04-18 16:47:22 INFO  BaseTest:29 - Loading properties file
+2025-04-18 16:47:22 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-18 17:02:56 INFO  BaseTest:29 - Loading properties file
+2025-04-18 17:02:56 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-18 17:03:03 INFO  BaseTest:47 - Driver instance created for browser: edge Successfully
+2025-04-18 17:03:03 INFO  BaseTest:47 - Driver instance created for browser: chrome Successfully
+2025-04-18 17:03:05 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-18 17:03:10 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-18 17:03:13 INFO  BaseTest:47 - Driver instance created for browser: firefox Successfully
+2025-04-18 17:03:20 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-18 17:03:21 INFO  LoginTest:19 - Login successful
+2025-04-18 17:03:21 INFO  BaseTest:61 - ChromeDriver: chrome on windows (a55ddfd8dc99613fec4ffde35f8bd125) Closing the browser
+2025-04-18 17:03:22 INFO  LoginTest:19 - Login successful
+2025-04-18 17:03:22 INFO  BaseTest:61 - EdgeDriver: MicrosoftEdge on windows (a173d9f29be66fc82f8828520921c1af) Closing the browser
+2025-04-18 17:03:26 INFO  LoginTest:19 - Login successful
+2025-04-18 17:03:26 INFO  BaseTest:61 - FirefoxDriver: firefox on windows (7a53fa42-007d-494b-ba3c-25255be68358) Closing the browser
+2025-04-18 17:09:53 INFO  BaseTest:29 - Loading properties file
+2025-04-18 17:09:53 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-18 17:09:59 INFO  BaseTest:47 - Driver instance created for browser: edge Successfully
+2025-04-18 17:09:59 INFO  BaseTest:47 - Driver instance created for browser: chrome Successfully
+2025-04-18 17:10:01 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-18 17:10:01 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-18 17:10:09 INFO  LoginTest:19 - Login successful
+2025-04-18 17:10:09 INFO  BaseTest:61 - ChromeDriver: chrome on windows (b03e77817fbd5c580111925b2bc4ffdf) Closing the browser
+2025-04-18 17:10:10 INFO  LoginTest:19 - Login successful
+2025-04-18 17:10:10 INFO  BaseTest:61 - EdgeDriver: MicrosoftEdge on windows (07e7196d5e8794b82a1d784947e77f6d) Closing the browser
+2025-04-18 17:10:11 INFO  BaseTest:47 - Driver instance created for browser: firefox Successfully
+2025-04-18 17:10:16 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-18 17:10:19 INFO  LoginTest:19 - Login successful
+2025-04-18 17:10:19 INFO  BaseTest:61 - FirefoxDriver: firefox on windows (78bd8045-4a0f-4128-b69a-1144785c1a96) Closing the browser
+2025-04-18 17:10:56 INFO  BaseTest:29 - Loading properties file
+2025-04-18 17:10:56 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-18 17:11:02 INFO  BaseTest:47 - Driver instance created for browser: chrome Successfully
+2025-04-18 17:11:02 INFO  BaseTest:47 - Driver instance created for browser: edge Successfully
+2025-04-18 17:11:03 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-18 17:11:05 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-18 17:11:09 INFO  LoginTest:19 - Login successful
+2025-04-18 17:11:09 INFO  BaseTest:61 - ChromeDriver: chrome on windows (12bcebce0ee5d62f4e916a5805768c4a) Closing the browser
+2025-04-18 17:11:09 INFO  LoginTest:19 - Login successful
+2025-04-18 17:11:09 INFO  BaseTest:61 - EdgeDriver: MicrosoftEdge on windows (b4249256d80d8f0f3efa82cbda27cad3) Closing the browser
+2025-04-18 17:11:10 INFO  BaseTest:47 - Driver instance created for browser: firefox Successfully
+2025-04-18 17:11:17 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-18 17:11:21 INFO  LoginTest:19 - Login successful
+2025-04-18 17:11:21 INFO  BaseTest:61 - FirefoxDriver: firefox on windows (46947b47-7090-4c86-b8c7-e13111e0285f) Closing the browser
+2025-04-18 17:20:09 INFO  BaseTest:29 - Loading properties file
+2025-04-18 17:20:09 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-18 17:20:15 INFO  BaseTest:47 - Driver instance created for browser: edge Successfully
+2025-04-18 17:20:15 INFO  BaseTest:47 - Driver instance created for browser: chrome Successfully
+2025-04-18 17:20:17 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-18 17:20:18 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-18 17:20:25 INFO  LoginTest:19 - Login successful
+2025-04-18 17:20:25 INFO  BaseTest:61 - ChromeDriver: chrome on windows (a45e43fdc10f0e272f168c768eedf247) Closing the browser
+2025-04-18 17:20:25 INFO  BaseTest:47 - Driver instance created for browser: firefox Successfully
+2025-04-18 17:20:28 INFO  LoginTest:19 - Login successful
+2025-04-18 17:20:28 INFO  BaseTest:61 - EdgeDriver: MicrosoftEdge on windows (2e73f0091e04618183176fd97430d5ee) Closing the browser
+2025-04-18 17:20:33 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-18 17:20:36 INFO  LoginTest:19 - Login successful
+2025-04-18 17:20:36 INFO  BaseTest:61 - FirefoxDriver: firefox on windows (9d4a006c-654e-4594-b342-a869abefa13f) Closing the browser
+2025-04-18 17:27:23 INFO  BaseTest:29 - Loading properties file
+2025-04-18 17:27:23 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-18 17:27:28 INFO  BaseTest:47 - Driver instance created for browser: chrome Successfully
+2025-04-18 17:27:29 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-18 17:27:34 INFO  BaseTest:47 - Driver instance created for browser: firefox Successfully
+2025-04-18 17:27:39 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-18 17:27:39 INFO  LoginTest:19 - Login successful
+2025-04-18 17:27:39 INFO  BaseTest:61 - ChromeDriver: chrome on windows (da76aaf95cc704c872d2f1e0b6d626f5) Closing the browser
+2025-04-18 17:27:43 INFO  BaseTest:47 - Driver instance created for browser: edge Successfully
+2025-04-18 17:27:44 INFO  LoginTest:19 - Login successful
+2025-04-18 17:27:44 INFO  BaseTest:61 - FirefoxDriver: firefox on windows (d78e088f-20a9-4faa-b7b8-4d04a58cf6c0) Closing the browser
+2025-04-18 17:27:50 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-18 17:27:54 INFO  LoginTest:19 - Login successful
+2025-04-18 17:27:54 INFO  BaseTest:61 - EdgeDriver: MicrosoftEdge on windows (b3fbee6d20daac61a1c74829d0f4e7e8) Closing the browser
+2025-04-20 10:30:05 INFO  BaseTest:29 - Loading properties file
+2025-04-20 10:30:05 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-20 10:30:08 INFO  BaseTest:47 - Driver instance created for browser: chrome Successfully
+2025-04-20 10:30:08 INFO  BaseTest:47 - Driver instance created for browser: edge Successfully
+2025-04-20 10:30:11 INFO  BaseTest:47 - Driver instance created for browser: firefox Successfully
+2025-04-20 10:30:12 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 10:30:12 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 10:30:13 INFO  LoginTest:19 - Login successful
+2025-04-20 10:30:13 INFO  BaseTest:61 - ChromeDriver: chrome on windows (9419ebfa1068b08dfaf24fa548bc2c33) Closing the browser
+2025-04-20 10:30:14 INFO  LoginTest:19 - Login successful
+2025-04-20 10:30:14 INFO  BaseTest:61 - EdgeDriver: MicrosoftEdge on windows (b265a565799500b373f05a4e12c631ba) Closing the browser
+2025-04-20 10:30:15 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 10:30:18 INFO  LoginTest:19 - Login successful
+2025-04-20 10:30:18 INFO  BaseTest:61 - FirefoxDriver: firefox on windows (fcbd65de-d292-4dc7-bc72-74efb3a7fff2) Closing the browser
+2025-04-20 10:36:30 INFO  BaseTest:29 - Loading properties file
+2025-04-20 10:36:30 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-20 10:36:32 INFO  BaseTest:47 - Driver instance created for browser: edge Successfully
+2025-04-20 10:36:32 INFO  BaseTest:47 - Driver instance created for browser: chrome Successfully
+2025-04-20 10:36:35 INFO  BaseTest:47 - Driver instance created for browser: firefox Successfully
+2025-04-20 10:36:36 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 10:36:36 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 10:36:37 INFO  LoginTest:19 - Login successful
+2025-04-20 10:36:37 INFO  BaseTest:61 - ChromeDriver: chrome on windows (7ad812cdefffe154a789b834fb31cd02) Closing the browser
+2025-04-20 10:36:37 INFO  LoginTest:19 - Login successful
+2025-04-20 10:36:37 INFO  BaseTest:61 - EdgeDriver: MicrosoftEdge on windows (56a1908ea384ca4feeee7f066de9eb0f) Closing the browser
+2025-04-20 10:36:38 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 10:36:41 INFO  LoginTest:19 - Login successful
+2025-04-20 10:36:41 INFO  BaseTest:61 - FirefoxDriver: firefox on windows (719e5bc9-1953-4635-a316-552de746c87d) Closing the browser
+2025-04-20 10:37:59 INFO  BaseTest:29 - Loading properties file
+2025-04-20 10:37:59 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-20 10:38:02 INFO  BaseTest:47 - Driver instance created for browser: chrome Successfully
+2025-04-20 10:38:04 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 10:38:06 INFO  LoginTest:19 - Login successful
+2025-04-20 10:38:06 INFO  BaseTest:61 - ChromeDriver: chrome on windows (5a04def1d2bcda1481791f1be5833dc7) Closing the browser
+2025-04-20 10:39:44 INFO  BaseTest:29 - Loading properties file
+2025-04-20 10:39:44 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-20 10:39:45 INFO  BaseTest:47 - Driver instance created for browser: chrome Successfully
+2025-04-20 10:39:48 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 10:39:49 INFO  LoginTest:19 - Login successful
+2025-04-20 10:39:49 INFO  BaseTest:61 - ChromeDriver: chrome on windows (f050d0199f779825fab3ba83f9284389) Closing the browser
+2025-04-20 10:40:23 INFO  BaseTest:29 - Loading properties file
+2025-04-20 10:40:23 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-20 10:40:26 INFO  BaseTest:47 - Driver instance created for browser: edge Successfully
+2025-04-20 10:40:26 INFO  BaseTest:47 - Driver instance created for browser: chrome Successfully
+2025-04-20 10:40:28 INFO  BaseTest:47 - Driver instance created for browser: firefox Successfully
+2025-04-20 10:40:29 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 10:40:29 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 10:40:30 INFO  LoginTest:19 - Login successful
+2025-04-20 10:40:30 INFO  BaseTest:61 - ChromeDriver: chrome on windows (707ac897e148fd08b1d58dcfe476728f) Closing the browser
+2025-04-20 10:40:30 INFO  LoginTest:19 - Login successful
+2025-04-20 10:40:30 INFO  BaseTest:61 - EdgeDriver: MicrosoftEdge on windows (89d829bf9d78f9fe7f33f2190dadf21b) Closing the browser
+2025-04-20 10:40:32 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 10:40:35 INFO  LoginTest:19 - Login successful
+2025-04-20 10:40:35 INFO  BaseTest:61 - FirefoxDriver: firefox on windows (42c85c74-0333-4bf6-8f56-3ec7ed25227f) Closing the browser
+2025-04-20 10:41:10 INFO  BaseTest:29 - Loading properties file
+2025-04-20 10:41:10 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-20 10:41:12 INFO  BaseTest:47 - Driver instance created for browser: chrome Successfully
+2025-04-20 10:41:12 INFO  BaseTest:47 - Driver instance created for browser: edge Successfully
+2025-04-20 10:41:14 INFO  BaseTest:47 - Driver instance created for browser: firefox Successfully
+2025-04-20 10:41:15 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 10:41:15 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 10:41:16 INFO  LoginTest:19 - Login successful
+2025-04-20 10:41:16 INFO  BaseTest:61 - ChromeDriver: chrome on windows (2d26b23f019ed22c5e746f0d669ab1fa) Closing the browser
+2025-04-20 10:41:16 INFO  LoginTest:19 - Login successful
+2025-04-20 10:41:16 INFO  BaseTest:61 - EdgeDriver: MicrosoftEdge on windows (ddaddcff13de81b5328d817092923eb5) Closing the browser
+2025-04-20 10:41:18 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 10:41:21 INFO  LoginTest:19 - Login successful
+2025-04-20 10:41:21 INFO  BaseTest:61 - FirefoxDriver: firefox on windows (0e846006-18e4-46ba-96ff-76976fa2e346) Closing the browser
+2025-04-20 10:43:33 INFO  BaseTest:29 - Loading properties file
+2025-04-20 10:43:33 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-20 10:43:34 INFO  BaseTest:47 - Driver instance created for browser: chrome Successfully
+2025-04-20 10:43:38 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 10:43:39 INFO  LoginTest:19 - Login successful
+2025-04-20 10:43:39 INFO  BaseTest:61 - ChromeDriver: chrome on windows (ec21abcc2c196d3aff00d0f4a5802d82) Closing the browser
+2025-04-20 10:44:00 INFO  BaseTest:29 - Loading properties file
+2025-04-20 10:44:00 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-20 10:44:03 INFO  BaseTest:47 - Driver instance created for browser: edge Successfully
+2025-04-20 10:44:04 INFO  BaseTest:47 - Driver instance created for browser: chrome Successfully
+2025-04-20 10:44:06 INFO  BaseTest:47 - Driver instance created for browser: firefox Successfully
+2025-04-20 10:44:07 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 10:44:09 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 10:44:10 INFO  LoginTest:19 - Login successful
+2025-04-20 10:44:10 INFO  BaseTest:61 - EdgeDriver: MicrosoftEdge on windows (c00069307b05d7ac2f244f46ecb40e82) Closing the browser
+2025-04-20 10:44:11 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 10:44:12 INFO  LoginTest:19 - Login successful
+2025-04-20 10:44:12 INFO  BaseTest:61 - FirefoxDriver: firefox on windows (f2c0561f-13b5-4c02-884e-697b3f89b1b1) Closing the browser
+2025-04-20 10:44:13 INFO  LoginTest:19 - Login successful
+2025-04-20 10:44:13 INFO  BaseTest:61 - ChromeDriver: chrome on windows (11d970b5fa81b57e82e1db3feea742fc) Closing the browser

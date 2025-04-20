@@ -1,0 +1,8 @@
+automationtraining\base\BasePage.class
+automationtraining\exception\VerificationFailedException.class
+automationtraining\base\AbstractBase.class
+automationtraining\base\BaseTest.class
+automationtraining\exception\WebElementException.class
+automationtraining\util\EacelUtil.class
+automationtraining\constatns\Constants.class
+automationtraining\util\PropertyUtil.class

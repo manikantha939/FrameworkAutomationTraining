@@ -11,40 +11,55 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.ITestContext;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.BeforeSuite;
 
 import automationtraining.constatns.Constants;
+import automationtraining.util.PropertyUtil;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
-public class BaseTest {
-	private WebDriver driver;
+public class BaseTest extends AbstractBase {
+	
+	private static final Logger logger = LogManager.getLogger(BaseTest.class);
+	
+	ThreadLocal<WebDriver> threadLocal=new ThreadLocal<WebDriver>();
+	
+	@BeforeSuite
+	public void initialize() throws Exception {
+		logger.info("Loading properties file");
+		PropertyUtil.loadProperties();
+	}
 	
 	@BeforeMethod
-	public void setup(ITestContext context, Method method) {
+	public synchronized void setup(ITestContext context, Method method) {
 		Map<String, String> localParameters = context.getCurrentXmlTest().getLocalParameters();
 		String browser=localParameters.get("browser");
-		if(browser==Constants.CHROME) {
+		WebDriver driver;
+		if(browser.equals(Constants.CHROME)) {
 			driver = new ChromeDriver();
-		}else if(browser==Constants.FIREFOX) {
+		}else if(browser.equals(Constants.FIREFOX)) {
 			driver=new FirefoxDriver();
-		}else if(browser==Constants.EDGE){
+		}else if(browser.equals(Constants.EDGE)){
 			driver=new EdgeDriver();
 		}else {
 			driver=new ChromeDriver();
 		}
-		
+		logger.info("Driver instance created for browser: "+browser+" Successfully");
+		threadLocal.set(driver);
 		driver.manage().window().maximize();
-//		driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(20));
-		
+		driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(20));	
+	}
+	
+	public WebDriver getDriver() {
+		return threadLocal.get();
 	}
 	
 	
 	@AfterMethod
 	public void tearDown() {
-		if(driver!=null) {
-			driver.quit();
+		if(getDriver()!=null) {
+			logger.info(getDriver()+" Closing the browser");
+			getDriver().quit();
 		}
-	}
-	
-	public WebDriver getDriver() {
-		return driver;
 	}
 }

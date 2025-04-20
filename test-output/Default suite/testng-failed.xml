@@ -5,6 +5,7 @@
     <classes>
       <class name="automationtraining.tests.LoginTest">
         <methods>
+          <include name="initialize"/>
           <include name="setup"/>
           <include name="tearDown"/>
           <include name="loginTest"/>

@@ -2,6 +2,8 @@ package automationtraining.base;
 
 import java.time.Duration;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -11,10 +13,11 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import automationtraining.exception.WebElementException;
 
-public class BasePage {
+public class BasePage extends AbstractBase {
 
 	private WebDriver driver;
 	private WebDriverWait explicitWait;
+	private final static Logger logger=LogManager.getLogger(BasePage.class);
 	
 	public BasePage(WebDriver driver){
 		this.driver=driver;
@@ -32,8 +35,8 @@ public class BasePage {
 			element.clear();
 			element.sendKeys(text);
 		} catch (Exception e) {
-			System.out.println("Element not interactable: "+element.toString());
-			System.out.println("Element not interactable: "+e.getMessage());
+			logger.error("Element not interactable: "+element.toString());
+			logger.error("Element not interactable: "+e.getMessage());
 			throw new WebElementException("Element not interactable: "+e.getMessage()) ;
 		}
 		
@@ -45,8 +48,8 @@ public class BasePage {
 			element.clear();
 			element.sendKeys(text);
 		} catch (Exception e) {
-			System.out.println("Element not interactable: "+by.toString());
-			System.out.println("Element not interactable: "+e.getMessage());
+			logger.error("Element not interactable: "+by.toString());
+			logger.error("Element not interactable: "+e.getMessage());
 			throw new WebElementException("Element not interactable: "+e.getMessage()) ;
 		}
 		
@@ -57,8 +60,8 @@ public class BasePage {
 			explicitWait.until(ExpectedConditions.elementToBeClickable(element));
 			element.click();
 		} catch (Exception e) {
-			System.out.println("Element not interactable: "+element.toString());
-			System.out.println("Element not interactable: "+e.getMessage());
+			logger.error("Element not interactable: "+element.toString());
+			logger.error("Element not interactable: "+e.getMessage());
 			throw new WebElementException("Element not interactable: "+e.getMessage()) ;
 		}
 		
@@ -69,8 +72,8 @@ public class BasePage {
 			WebElement element = explicitWait.until(ExpectedConditions.elementToBeClickable(by));
 			element.click();
 		} catch (Exception e) {
-			System.out.println("Element not interactable: "+by.toString());
-			System.out.println("Element not interactable: "+e.getMessage());
+			logger.error("Element not interactable: "+by.toString());
+			logger.error("Element not interactable: "+e.getMessage());
 			throw new WebElementException("Element not interactable: "+e.getMessage()) ;
 		}
 		
