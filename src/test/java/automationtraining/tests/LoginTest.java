@@ -19,4 +19,12 @@ public class LoginTest extends BaseTest {
 		logger.info("Login successful");
 	}
 
+	@Test
+	public void loginTest1() throws Exception {
+		LoginPage loginPage=new LoginPage(getDriver());
+		getDriver().get(getProperty("url"));
+		logger.info("Navigated to URL: "+getProperty("url"));
+		loginPage.verifyLogin();
+		logger.info("Login successful");
+	}
 }

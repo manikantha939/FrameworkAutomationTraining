@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="14.43" tests="3" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="7.049" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
-    <property name="sun.java.command" value="C:\Users\Momitha\AppData\Local\Temp\surefire1033312618332949996\surefirebooter-20250420104359441_3.jar C:\Users\Momitha\AppData\Local\Temp\surefire1033312618332949996 2025-04-20T10-43-59_052-jvmRun1 surefire-20250420104359441_1tmp surefire_0-20250420104359441_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\Momitha\AppData\Local\Temp\surefire10908427093532871627\surefirebooter-20250420105404691_3.jar C:\Users\Momitha\AppData\Local\Temp\surefire10908427093532871627 2025-04-20T10-54-04_310-jvmRun1 surefire-20250420105404691_1tmp surefire_0-20250420105404691_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="D:\SeleniumWeekend\automationtraining\target\test-classes;D:\SeleniumWeekend\automationtraining\target\classes;C:\Users\Momitha\.m2\repository\org\seleniumhq\selenium\selenium-java\4.30.0\selenium-java-4.30.0.jar;C:\Users\Momitha\.m2\repository\org\seleniumhq\selenium\selenium-api\4.30.0\selenium-api-4.30.0.jar;C:\Users\Momitha\.m2\repository\org\jspecify\jspecify\1.0.0\jspecify-1.0.0.jar;C:\Users\Momitha\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.30.0\selenium-chrome-driver-4.30.0.jar;C:\Users\Momitha\.m2\repository\com\google\auto\service\auto-service-annotations\1.1.1\auto-service-annotations-1.1.1.jar;C:\Users\Momitha\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.30.0\selenium-chromium-driver-4.30.0.jar;C:\Users\Momitha\.m2\repository\org\seleniumhq\selenium\selenium-json\4.30.0\selenium-json-4.30.0.jar;C:\Users\Momitha\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.30.0\selenium-manager-4.30.0.jar;C:\Users\Momitha\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v132\4.30.0\selenium-devtools-v132-4.30.0.jar;C:\Users\Momitha\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v133\4.30.0\selenium-devtools-v133-4.30.0.jar;C:\Users\Momitha\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v134\4.30.0\selenium-devtools-v134-4.30.0.jar;C:\Users\Momitha\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.30.0\selenium-edge-driver-4.30.0.jar;C:\Users\Momitha\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.30.0\selenium-firefox-driver-4.30.0.jar;C:\Users\Momitha\.m2\repository\org\seleniumhq\selenium\selenium-http\4.30.0\selenium-http-4.30.0.jar;C:\Users\Momitha\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.30.0\selenium-ie-driver-4.30.0.jar;C:\Users\Momitha\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.30.0\selenium-remote-driver-4.30.0.jar;C:\Users\Momitha\.m2\repository\com\google\guava\guava\33.4.5-jre\guava-33.4.5-jre.jar;C:\Users\Momitha\.m2\repository\com\google\guava\failureaccess\1.0.3\failureaccess-1.0.3.jar;C:\Users\Momitha\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\Momitha\.m2\repository\com\google\errorprone\error_prone_annotations\2.36.0\error_prone_annotations-2.36.0.jar;C:\Users\Momitha\.m2\repository\com\google\j2objc\j2objc-annotations\3.0.0\j2objc-annotations-3.0.0.jar;C:\Users\Momitha\.m2\repository\io\opentelemetry\opentelemetry-api\1.48.0\opentelemetry-api-1.48.0.jar;C:\Users\Momitha\.m2\repository\io\opentelemetry\opentelemetry-context\1.48.0\opentelemetry-context-1.48.0.jar;C:\Users\Momitha\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.48.0\opentelemetry-exporter-logging-1.48.0.jar;C:\Users\Momitha\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.48.0\opentelemetry-sdk-common-1.48.0.jar;C:\Users\Momitha\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.48.0\opentelemetry-sdk-extension-autoconfigure-spi-1.48.0.jar;C:\Users\Momitha\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.48.0\opentelemetry-sdk-extension-autoconfigure-1.48.0.jar;C:\Users\Momitha\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.48.0\opentelemetry-sdk-trace-1.48.0.jar;C:\Users\Momitha\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.48.0\opentelemetry-sdk-1.48.0.jar;C:\Users\Momitha\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.48.0\opentelemetry-sdk-metrics-1.48.0.jar;C:\Users\Momitha\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.48.0\opentelemetry-sdk-logs-1.48.0.jar;C:\Users\Momitha\.m2\repository\net\bytebuddy\byte-buddy\1.17.2\byte-buddy-1.17.2.jar;C:\Users\Momitha\.m2\repository\org\seleniumhq\selenium\selenium-os\4.30.0\selenium-os-4.30.0.jar;C:\Users\Momitha\.m2\repository\org\apache\commons\commons-exec\1.4.0\commons-exec-1.4.0.jar;C:\Users\Momitha\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.30.0\selenium-safari-driver-4.30.0.jar;C:\Users\Momitha\.m2\repository\org\seleniumhq\selenium\selenium-support\4.30.0\selenium-support-4.30.0.jar;C:\Users\Momitha\.m2\repository\org\testng\testng\7.7.1\testng-7.7.1.jar;C:\Users\Momitha\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\Momitha\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\Momitha\.m2\repository\org\webjars\jquery\3.6.1\jquery-3.6.1.jar;C:\Users\Momitha\.m2\repository\org\apache\poi\poi-ooxml\5.2.3\poi-ooxml-5.2.3.jar;C:\Users\Momitha\.m2\repository\org\apache\poi\poi-ooxml-lite\5.2.3\poi-ooxml-lite-5.2.3.jar;C:\Users\Momitha\.m2\repository\org\apache\xmlbeans\xmlbeans\5.1.1\xmlbeans-5.1.1.jar;C:\Users\Momitha\.m2\repository\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\Momitha\.m2\repository\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\Momitha\.m2\repository\com\github\virtuald\curvesapi\1.07\curvesapi-1.07.jar;C:\Users\Momitha\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\Momitha\.m2\repository\org\apache\poi\poi\5.2.3\poi-5.2.3.jar;C:\Users\Momitha\.m2\repository\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\Momitha\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\Momitha\.m2\repository\com\zaxxer\SparseBitSet\1.2\SparseBitSet-1.2.jar;C:\Users\Momitha\.m2\repository\org\apache\logging\log4j\log4j-api\2.24.1\log4j-api-2.24.1.jar;C:\Users\Momitha\.m2\repository\org\apache\logging\log4j\log4j-core\2.24.1\log4j-core-2.24.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Momitha\AppData\Local\Temp\surefire1033312618332949996\surefirebooter-20250420104359441_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Momitha\AppData\Local\Temp\surefire10908427093532871627\surefirebooter-20250420105404691_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.10+11-LTS-240"/>
@@ -50,41 +50,25 @@
     <property name="sun.os.patch.level" value=""/>
     <property name="native.encoding" value="Cp1252"/>
     <property name="java.library.path" value="C:\Program Files\Java\jdk-17\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Users\Momitha\Downloads\apache-maven-3.9.9-bin\apache-maven-3.9.9/bin;C:\Program Files\Java\jdk-17/bin;C:\Program Files\Java\jdk-17/bin;C:\Python312\Scripts\;C:\Python312\;C:\Program Files\Python38\Scripts\;C:\Program Files\Python38\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Filestar;C:\Users\Momitha\AppData\Roaming\Filestar\aliases;C:\Users\Momitha\AppData\Local\Android\Sdk\platform-tools;C:\Users\Momitha\AppData\Local\Android\Sdk\tools;C:\Users\Momitha\AppData\Local\Android\Sdk\build-tools;C:\Users\Momitha\AppData\Local\Android\Sdk\tools\bin;C:\Program Files (x86)\Common Files\DivX Shared\DesktopService;C:\Program Files\Java\jdk-17\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\Momitha\AppData\Roaming\npm;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Users\Momitha\Downloads\apache-maven-3.9.9-bin\apache-maven-3.9.9\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Momitha\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\Momitha\AppData\Local\Programs\Python\Python39\;C:\Users\Momitha\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\bin;C:\Users\Momitha\AppData\Local\atom\bin;C:\Users\Momitha\AppData\Local\GitHubDesktop\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.3\bin;;C:\Program Files\Java\jdk-17\bin;C:\Program Files\JetBrains\PyCharm Edu 2022.2.2\bin;;C:\Users\Momitha\AppData\Local\Microsoft\WinGet\Packages\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\Momitha\AppData\Roaming\npm;C:\Users\Momitha\Downloads\apache-maven-3.9.8-bin\apache-maven-3.9.8\bin;C:\Users\Momitha\AppData\Local\Programs\Microsoft VS Code\bin;."/>
-    <property name="suite" value="crossbrowser"/>
+    <property name="suite" value="testng"/>
     <property name="java.vm.info" value="mixed mode, sharing"/>
     <property name="java.vendor" value="Oracle Corporation"/>
     <property name="java.vm.version" value="17.0.10+11-LTS-240"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="loginTest" classname="automationtraining.tests.LoginTest" time="3.685">
-    <system-out><![CDATA[10:44:00.592 [main] INFO  automationtraining.base.BaseTest - Loading properties file
-10:44:00.598 [main] INFO  automationtraining.util.PropertyUtil - Properties file loaded successfully
-10:44:03.469 [TestNG-tests-3] INFO  automationtraining.base.BaseTest - Driver instance created for browser: edge Successfully
-10:44:04.390 [TestNG-tests-1] INFO  automationtraining.base.BaseTest - Driver instance created for browser: chrome Successfully
-10:44:06.307 [TestNG-tests-2] INFO  automationtraining.base.BaseTest - Driver instance created for browser: firefox Successfully
-10:44:07.825 [TestNG-tests-3] INFO  automationtraining.tests.LoginTest - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-10:44:09.822 [TestNG-tests-2] INFO  automationtraining.tests.LoginTest - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-10:44:10.001 [TestNG-tests-3] INFO  automationtraining.tests.LoginTest - Login successful
+  <testcase name="loginTest" classname="automationtraining.tests.LoginTest" time="4.139">
+    <system-out><![CDATA[10:54:05.866 [main] INFO  automationtraining.base.BaseTest - Loading properties file
+10:54:05.870 [main] INFO  automationtraining.util.PropertyUtil - Properties file loaded successfully
+10:54:07.655 [main] INFO  automationtraining.base.BaseTest - Driver instance created for browser: chrome Successfully
+10:54:10.607 [main] INFO  automationtraining.tests.LoginTest - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+10:54:11.832 [main] INFO  automationtraining.tests.LoginTest - Login successful
 ]]></system-out>
     <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
-Apr 20, 2025 10:44:03 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 135, returning the closest version; found: 134; Please update to a Selenium version that supports CDP version 135
-Apr 20, 2025 10:44:04 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Apr 20, 2025 10:54:07 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 135, returning the closest version; found: 134; Please update to a Selenium version that supports CDP version 135
 ]]></system-err>
-  </testcase>
-  <testcase name="loginTest" classname="automationtraining.tests.LoginTest" time="5.874">
-    <system-out><![CDATA[10:44:10.005 [TestNG-tests-3] INFO  automationtraining.base.BaseTest - EdgeDriver: MicrosoftEdge on windows (c00069307b05d7ac2f244f46ecb40e82) Closing the browser
-10:44:11.636 [TestNG-tests-1] INFO  automationtraining.tests.LoginTest - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-10:44:12.192 [TestNG-tests-2] INFO  automationtraining.tests.LoginTest - Login successful
-]]></system-out>
-  </testcase>
-  <testcase name="loginTest" classname="automationtraining.tests.LoginTest" time="7.545">
-    <system-out><![CDATA[10:44:12.195 [TestNG-tests-2] INFO  automationtraining.base.BaseTest - FirefoxDriver: firefox on windows (f2c0561f-13b5-4c02-884e-697b3f89b1b1) Closing the browser
-10:44:13.863 [TestNG-tests-1] INFO  automationtraining.tests.LoginTest - Login successful
-]]></system-out>
   </testcase>
 </testsuite>
