@@ -1,8 +1,8 @@
 package automationtraining.util;
 
-public class EacelUtil {
+public class ExcelUtil {
 
-	public EacelUtil() {
+	public ExcelUtil() {
 		// TODO Auto-generated constructor stub
 	}
 	

@@ -241,3 +241,495 @@
 2025-04-20 10:54:10 INFO  LoginTest:17 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
 2025-04-20 10:54:11 INFO  LoginTest:19 - Login successful
 2025-04-20 10:54:11 INFO  BaseTest:61 - ChromeDriver: chrome on windows (74318f18e5fcabb34198ba7f1fc64661) Closing the browser
+2025-04-20 12:44:04 INFO  BaseTest:29 - Loading properties file
+2025-04-20 12:44:04 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-20 16:24:50 INFO  BaseTest:34 - Loading properties file
+2025-04-20 16:24:50 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-20 16:27:39 INFO  BaseTest:34 - Loading properties file
+2025-04-20 16:27:39 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-20 16:32:37 INFO  BaseTest:34 - Loading properties file
+2025-04-20 16:32:37 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-20 16:32:43 INFO  BaseTest:62 - Driver instance created for browser: chrome Successfully
+2025-04-20 16:32:51 INFO  LoginTest:20 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 16:32:54 INFO  LoginTest:22 - Login successful
+2025-04-20 16:32:54 INFO  BaseTest:79 - ChromeDriver: chrome on windows (c4d40db16ae9fa6f0917ea7f043a7843) Closing the browser
+2025-04-20 16:32:57 INFO  BaseTest:62 - Driver instance created for browser: chrome Successfully
+2025-04-20 16:33:04 INFO  LoginTest:31 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 16:33:06 INFO  LoginTest:33 - Login successful
+2025-04-20 16:33:06 INFO  BaseTest:79 - ChromeDriver: chrome on windows (288afe26b32d2deec567b56529cc1ced) Closing the browser
+2025-04-20 16:33:43 INFO  BaseTest:34 - Loading properties file
+2025-04-20 16:33:43 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-20 16:33:52 INFO  BaseTest:62 - Driver instance created for browser: edge Successfully
+2025-04-20 16:33:52 INFO  BaseTest:62 - Driver instance created for browser: chrome Successfully
+2025-04-20 16:33:56 INFO  LoginTest:20 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 16:33:57 INFO  LoginTest:20 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 16:34:04 INFO  BaseTest:62 - Driver instance created for browser: firefox Successfully
+2025-04-20 16:34:07 INFO  LoginTest:22 - Login successful
+2025-04-20 16:34:07 INFO  BaseTest:79 - ChromeDriver: chrome on windows (6982b90c32704f2ef0c3bf9f5c390259) Closing the browser
+2025-04-20 16:34:10 INFO  LoginTest:22 - Login successful
+2025-04-20 16:34:10 INFO  BaseTest:79 - EdgeDriver: MicrosoftEdge on windows (281d0591784dc9a26d6dfba3a48741fd) Closing the browser
+2025-04-20 16:34:13 INFO  LoginTest:20 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 16:34:15 INFO  BaseTest:62 - Driver instance created for browser: chrome Successfully
+2025-04-20 16:34:18 INFO  LoginTest:22 - Login successful
+2025-04-20 16:34:18 INFO  BaseTest:79 - FirefoxDriver: firefox on windows (63f4a397-032d-4355-9138-e38b062eecdb) Closing the browser
+2025-04-20 16:34:19 INFO  LoginTest:31 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 16:34:20 INFO  BaseTest:62 - Driver instance created for browser: edge Successfully
+2025-04-20 16:34:23 INFO  LoginTest:33 - Login successful
+2025-04-20 16:34:23 INFO  BaseTest:79 - ChromeDriver: chrome on windows (3281495ef7f7a779ad7c3b21a2c7232e) Closing the browser
+2025-04-20 16:34:25 INFO  LoginTest:31 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 16:34:29 INFO  LoginTest:33 - Login successful
+2025-04-20 16:34:29 INFO  BaseTest:79 - EdgeDriver: MicrosoftEdge on windows (a7f1cb9c1df5d53d3c84288459a75ad3) Closing the browser
+2025-04-20 16:34:32 INFO  BaseTest:62 - Driver instance created for browser: firefox Successfully
+2025-04-20 16:34:41 INFO  LoginTest:31 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 16:34:45 INFO  LoginTest:33 - Login successful
+2025-04-20 16:34:45 INFO  BaseTest:79 - FirefoxDriver: firefox on windows (87870b86-54c1-4b4a-b26d-c9a0546540ce) Closing the browser
+2025-04-20 16:42:45 INFO  BaseTest:34 - Loading properties file
+2025-04-20 16:42:45 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-20 16:42:52 INFO  BaseTest:62 - Driver instance created for browser: chrome Successfully
+2025-04-20 16:42:52 INFO  BaseTest:62 - Driver instance created for browser: edge Successfully
+2025-04-20 16:42:56 INFO  LoginTest:20 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 16:42:59 INFO  BaseTest:62 - Driver instance created for browser: firefox Successfully
+2025-04-20 16:43:01 INFO  LoginTest:20 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 16:43:05 INFO  LoginTest:20 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 16:43:08 INFO  LoginTest:22 - Login successful
+2025-04-20 16:43:08 INFO  BaseTest:79 - EdgeDriver: MicrosoftEdge on windows (75e7ffd101157fab6ae80f8b2714ddd2) Closing the browser
+2025-04-20 16:43:08 INFO  LoginTest:22 - Login successful
+2025-04-20 16:43:08 INFO  BaseTest:79 - ChromeDriver: chrome on windows (a3f356173aff4c5a884f323336c1f2a3) Closing the browser
+2025-04-20 16:43:09 INFO  LoginTest:22 - Login successful
+2025-04-20 16:43:09 INFO  BaseTest:79 - FirefoxDriver: firefox on windows (28fac7d9-ff2e-49d8-ab0c-83f48ab1221d) Closing the browser
+2025-04-20 16:43:14 INFO  BaseTest:62 - Driver instance created for browser: chrome Successfully
+2025-04-20 16:43:15 INFO  LoginTest:31 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 16:43:17 INFO  BaseTest:62 - Driver instance created for browser: edge Successfully
+2025-04-20 16:43:24 INFO  BaseTest:62 - Driver instance created for browser: firefox Successfully
+2025-04-20 16:43:25 INFO  LoginTest:31 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 16:43:26 INFO  LoginTest:33 - Login successful
+2025-04-20 16:43:26 INFO  BaseTest:79 - ChromeDriver: chrome on windows (a5b9e31292d86a36468446cb10222a85) Closing the browser
+2025-04-20 16:43:30 INFO  LoginTest:33 - Login successful
+2025-04-20 16:43:30 INFO  BaseTest:79 - EdgeDriver: MicrosoftEdge on windows (3ce1ef8ed0094c8a7198e39abbeda5f7) Closing the browser
+2025-04-20 16:43:31 INFO  LoginTest:31 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 16:43:35 INFO  LoginTest:33 - Login successful
+2025-04-20 16:43:35 INFO  BaseTest:79 - FirefoxDriver: firefox on windows (03e1bd33-b091-4d0f-b688-aa09efeabfe8) Closing the browser
+2025-04-20 16:47:27 INFO  BaseTest:34 - Loading properties file
+2025-04-20 16:47:27 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-20 16:47:35 INFO  BaseTest:62 - Driver instance created for browser: edge Successfully
+2025-04-20 16:47:35 INFO  BaseTest:62 - Driver instance created for browser: chrome Successfully
+2025-04-20 16:47:41 INFO  LoginTest:20 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 16:47:43 INFO  BaseTest:62 - Driver instance created for browser: firefox Successfully
+2025-04-20 16:47:44 INFO  LoginTest:20 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 16:47:47 INFO  LoginTest:22 - Login successful
+2025-04-20 16:47:47 INFO  BaseTest:79 - ChromeDriver: chrome on windows (1f298159ba2db170986eeb60ddf03822) Closing the browser
+2025-04-20 16:47:49 INFO  LoginTest:22 - Login successful
+2025-04-20 16:47:49 INFO  BaseTest:79 - EdgeDriver: MicrosoftEdge on windows (5fb996ebf9bbd6359a34bb8010b0bfbc) Closing the browser
+2025-04-20 16:47:51 INFO  BaseTest:62 - Driver instance created for browser: chrome Successfully
+2025-04-20 16:47:52 INFO  LoginTest:20 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 16:47:55 INFO  LoginTest:31 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 16:47:56 INFO  LoginTest:22 - Login successful
+2025-04-20 16:47:56 INFO  BaseTest:79 - FirefoxDriver: firefox on windows (3d8af43d-5816-4b76-855b-8ad342949ed9) Closing the browser
+2025-04-20 16:47:56 INFO  BaseTest:62 - Driver instance created for browser: edge Successfully
+2025-04-20 16:47:59 INFO  LoginTest:33 - Login successful
+2025-04-20 16:47:59 INFO  BaseTest:79 - ChromeDriver: chrome on windows (f70ee704a42d9ff9ec0a4bed40e29e70) Closing the browser
+2025-04-20 16:48:02 INFO  LoginTest:31 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 16:48:08 INFO  LoginTest:33 - Login successful
+2025-04-20 16:48:08 INFO  BaseTest:79 - EdgeDriver: MicrosoftEdge on windows (ce99efb2305139e638a640e0342ce619) Closing the browser
+2025-04-20 16:48:10 INFO  BaseTest:62 - Driver instance created for browser: firefox Successfully
+2025-04-20 16:48:16 INFO  LoginTest:31 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 16:48:19 INFO  LoginTest:33 - Login successful
+2025-04-20 16:48:19 INFO  BaseTest:79 - FirefoxDriver: firefox on windows (b8ff5400-ea46-4bc1-b779-82f42910a937) Closing the browser
+2025-04-20 18:48:50 INFO  BaseTest:34 - Loading properties file
+2025-04-20 18:48:50 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-20 18:48:57 INFO  BaseTest:63 - Driver instance created for browser: chrome Successfully
+2025-04-20 18:48:57 INFO  BaseTest:63 - Driver instance created for browser: edge Successfully
+2025-04-20 18:48:59 INFO  LoginTest:20 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 18:48:59 INFO  LoginTest:20 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 18:49:06 INFO  BaseTest:63 - Driver instance created for browser: firefox Successfully
+2025-04-20 18:49:10 INFO  LoginTest:22 - Login successful
+2025-04-20 18:49:10 INFO  BaseTest:81 - ChromeDriver: chrome on windows (45f18195c9f6f54a8ddbfd75a0887995) Closing the browser
+2025-04-20 18:49:11 INFO  LoginTest:22 - Login successful
+2025-04-20 18:49:11 INFO  BaseTest:81 - EdgeDriver: MicrosoftEdge on windows (7a321df8b2bc9fc664db089952af91af) Closing the browser
+2025-04-20 18:49:12 INFO  LoginTest:20 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 18:49:15 INFO  LoginTest:22 - Login successful
+2025-04-20 18:49:15 INFO  BaseTest:81 - FirefoxDriver: firefox on windows (834e8d23-c560-4c29-9188-4d324fa48f3c) Closing the browser
+2025-04-20 18:49:18 INFO  BaseTest:63 - Driver instance created for browser: chrome Successfully
+2025-04-20 18:49:22 INFO  BaseTest:63 - Driver instance created for browser: edge Successfully
+2025-04-20 18:49:22 INFO  LoginTest:31 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 18:49:25 INFO  LoginTest:31 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 18:49:26 INFO  LoginTest:33 - Login successful
+2025-04-20 18:49:26 INFO  BaseTest:81 - ChromeDriver: chrome on windows (1125363ccff677d656c89175cb9ccc62) Closing the browser
+2025-04-20 18:49:29 INFO  LoginTest:33 - Login successful
+2025-04-20 18:49:29 INFO  BaseTest:81 - EdgeDriver: MicrosoftEdge on windows (ea38c19abe2384f898ba3f77490ba7d8) Closing the browser
+2025-04-20 18:49:32 INFO  BaseTest:63 - Driver instance created for browser: firefox Successfully
+2025-04-20 18:49:37 INFO  LoginTest:31 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-20 18:49:40 INFO  LoginTest:33 - Login successful
+2025-04-20 18:49:40 INFO  BaseTest:81 - FirefoxDriver: firefox on windows (abcb599f-6ace-4253-b043-ad3e397ad00d) Closing the browser
+2025-04-21 22:30:25 INFO  BaseTest:34 - Loading properties file
+2025-04-21 22:30:25 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-21 22:30:32 INFO  BaseTest:63 - Driver instance created for browser: chrome Successfully
+2025-04-21 22:30:36 INFO  BaseTest:63 - Driver instance created for browser: chrome Successfully
+2025-04-21 22:30:37 INFO  LoginTest:20 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-21 22:30:39 INFO  LoginTest:31 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-21 22:30:40 INFO  LoginTest:22 - Login successful
+2025-04-21 22:30:40 INFO  BaseTest:81 - ChromeDriver: chrome on windows (b10499984b70fae2917172ec1b41278d) Closing the browser
+2025-04-21 22:30:41 INFO  LoginTest:33 - Login successful
+2025-04-21 22:30:41 INFO  BaseTest:81 - ChromeDriver: chrome on windows (86509eb2b5a7049c83b16f78c691225c) Closing the browser
+2025-04-21 22:30:50 INFO  BaseTest:63 - Driver instance created for browser: firefox Successfully
+2025-04-21 22:30:55 INFO  LoginTest:31 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-21 22:30:58 INFO  LoginTest:33 - Login successful
+2025-04-21 22:30:58 INFO  BaseTest:81 - FirefoxDriver: firefox on windows (bdb53115-cb70-4c6e-a21d-5890e75ce324) Closing the browser
+2025-04-21 22:31:01 INFO  BaseTest:63 - Driver instance created for browser: firefox Successfully
+2025-04-21 22:31:05 INFO  LoginTest:20 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-21 22:31:12 INFO  LoginTest:22 - Login successful
+2025-04-21 22:31:12 INFO  BaseTest:81 - FirefoxDriver: firefox on windows (7ec9de32-405a-4d1a-81cb-a59c495b78b1) Closing the browser
+2025-04-21 22:31:19 INFO  BaseTest:63 - Driver instance created for browser: edge Successfully
+2025-04-21 22:31:23 INFO  LoginTest:20 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-21 22:31:25 INFO  BaseTest:63 - Driver instance created for browser: edge Successfully
+2025-04-21 22:31:28 INFO  LoginTest:22 - Login successful
+2025-04-21 22:31:28 INFO  BaseTest:81 - EdgeDriver: MicrosoftEdge on windows (8c6c0e872d5ffbe424697f449c8aaebf) Closing the browser
+2025-04-21 22:31:29 INFO  LoginTest:31 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-21 22:31:32 INFO  LoginTest:33 - Login successful
+2025-04-21 22:31:32 INFO  BaseTest:81 - EdgeDriver: MicrosoftEdge on windows (ccf5c1db0f54e96ff7b52cab90cdd53b) Closing the browser
+2025-04-22 09:17:54 INFO  BaseTest:34 - Loading properties file
+2025-04-22 09:17:54 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-22 09:17:56 INFO  BaseTest:63 - Driver instance created for browser: chrome Successfully
+2025-04-22 09:18:00 INFO  LoginTest:20 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-22 09:18:02 INFO  LoginTest:22 - Login successful
+2025-04-22 09:18:02 INFO  BaseTest:81 - ChromeDriver: chrome on windows (b2fe90a0742dd66725481dabb005acad) Closing the browser
+2025-04-22 09:18:03 INFO  BaseTest:63 - Driver instance created for browser: chrome Successfully
+2025-04-22 09:18:07 INFO  LoginTest:31 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-22 09:18:09 INFO  LoginTest:33 - Login successful
+2025-04-22 09:18:09 INFO  BaseTest:81 - ChromeDriver: chrome on windows (868bf413247a465e8201ae7303457071) Closing the browser
+2025-04-22 09:22:19 INFO  BaseTest:34 - Loading properties file
+2025-04-22 09:22:19 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-22 09:22:20 INFO  BaseTest:63 - Driver instance created for browser: chrome Successfully
+2025-04-22 09:22:23 INFO  LoginTest:20 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-22 09:22:25 INFO  LoginTest:22 - Login successful
+2025-04-22 09:22:25 INFO  BaseTest:81 - ChromeDriver: chrome on windows (599577081c1716b8da13cfd658227638) Closing the browser
+2025-04-22 09:22:26 INFO  BaseTest:63 - Driver instance created for browser: chrome Successfully
+2025-04-22 09:22:30 INFO  LoginTest:31 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-22 09:22:32 INFO  LoginTest:33 - Login successful
+2025-04-22 09:22:32 INFO  BaseTest:81 - ChromeDriver: chrome on windows (042be93bd71d1f48aca8270f4ca7ccaa) Closing the browser
+2025-04-22 14:34:34 INFO  BaseTest:34 - Loading properties file
+2025-04-22 14:34:34 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-22 14:34:44 INFO  BaseTest:63 - Driver instance created for browser: chrome Successfully
+2025-04-22 14:34:47 INFO  LoginTest:20 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-22 14:34:51 INFO  LoginTest:22 - Login successful
+2025-04-22 14:34:51 INFO  BaseTest:81 - ChromeDriver: chrome on windows (8b49a743869da125f053e75b32418f6c) Closing the browser
+2025-04-22 14:34:55 INFO  BaseTest:63 - Driver instance created for browser: chrome Successfully
+2025-04-22 14:34:58 INFO  LoginTest:31 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-22 14:35:02 INFO  LoginTest:33 - Login successful
+2025-04-22 14:35:02 INFO  BaseTest:81 - ChromeDriver: chrome on windows (48692850aeb8aefa24c32d03a1de6f14) Closing the browser
+2025-04-22 21:41:47 INFO  BaseTest:34 - Loading properties file
+2025-04-22 21:41:47 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-22 21:41:51 INFO  BaseTest:63 - Driver instance created for browser: chrome Successfully
+2025-04-22 21:41:55 INFO  LoginTest:20 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-22 21:41:58 INFO  LoginTest:22 - Login successful
+2025-04-22 21:41:58 INFO  BaseTest:81 - ChromeDriver: chrome on windows (a38dab1d516ab0a162a400ff468828e6) Closing the browser
+2025-04-22 21:42:00 INFO  BaseTest:63 - Driver instance created for browser: chrome Successfully
+2025-04-22 21:42:03 INFO  LoginTest:31 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-22 21:42:06 INFO  LoginTest:33 - Login successful
+2025-04-22 21:42:06 INFO  BaseTest:81 - ChromeDriver: chrome on windows (29a0d3ca9f897edd7151c7605e8534d2) Closing the browser
+2025-04-22 23:18:49 INFO  BaseTest:39 - Loading properties file
+2025-04-22 23:18:49 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-22 23:18:57 INFO  BaseTest:84 - Driver instance created for browser: chrome Successfully
+2025-04-22 23:19:17 INFO  BaseTest:102 - RemoteWebDriver: chrome on Windows 10 (5b572fe6afe35a5f3554d6e07383f755) Closing the browser
+2025-04-22 23:19:21 INFO  BaseTest:84 - Driver instance created for browser: chrome Successfully
+2025-04-22 23:19:41 INFO  BaseTest:102 - RemoteWebDriver: chrome on Windows 10 (b32962e9e64c8f7beeffd1ca4c8b208c) Closing the browser
+2025-04-22 23:20:38 INFO  BaseTest:39 - Loading properties file
+2025-04-22 23:20:38 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-22 23:20:43 INFO  BaseTest:84 - Driver instance created for browser: chrome Successfully
+2025-04-22 23:21:04 INFO  BaseTest:102 - RemoteWebDriver: chrome on Windows 10 (74922ba9402abddaf0a6799df995cc4e) Closing the browser
+2025-04-22 23:21:09 INFO  BaseTest:84 - Driver instance created for browser: chrome Successfully
+2025-04-22 23:21:29 INFO  BaseTest:102 - RemoteWebDriver: chrome on Windows 10 (024498d4a2a5fc54ea855abdcb43d690) Closing the browser
+2025-04-22 23:22:07 INFO  BaseTest:39 - Loading properties file
+2025-04-22 23:22:07 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-22 23:22:11 INFO  BaseTest:84 - Driver instance created for browser: chrome Successfully
+2025-04-22 23:22:32 INFO  BaseTest:102 - RemoteWebDriver: chrome on Windows 10 (5bd39275b739236bc1af992d4d217605) Closing the browser
+2025-04-22 23:22:35 INFO  BaseTest:84 - Driver instance created for browser: chrome Successfully
+2025-04-22 23:22:54 INFO  LoginTest:31 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-22 23:23:00 INFO  LoginTest:33 - Login successful
+2025-04-22 23:23:00 INFO  BaseTest:102 - RemoteWebDriver: chrome on Windows 10 (0c8f35acea3c7432a2d700ffc36feb60) Closing the browser
+2025-04-22 23:23:26 INFO  BaseTest:39 - Loading properties file
+2025-04-22 23:23:26 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-22 23:23:31 INFO  BaseTest:84 - Driver instance created for browser: chrome Successfully
+2025-04-22 23:23:51 INFO  BaseTest:102 - ChromeDriver: chrome on windows (2a105b7a33e6ed58e161dfa3112a4b0d) Closing the browser
+2025-04-22 23:23:55 INFO  BaseTest:84 - Driver instance created for browser: chrome Successfully
+2025-04-22 23:24:15 INFO  BaseTest:102 - ChromeDriver: chrome on windows (52e63412a093d420444c85a62b64085f) Closing the browser
+2025-04-22 23:25:52 INFO  BaseTest:39 - Loading properties file
+2025-04-22 23:25:52 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-22 23:25:59 INFO  BaseTest:85 - Driver instance created for browser: chrome Successfully
+2025-04-22 23:25:59 INFO  BaseTest:85 - Driver instance created for browser: edge Successfully
+2025-04-22 23:26:13 INFO  BaseTest:85 - Driver instance created for browser: firefox Successfully
+2025-04-22 23:26:18 INFO  LoginTest:20 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-22 23:26:18 INFO  LoginTest:20 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-22 23:26:24 INFO  LoginTest:20 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-22 23:26:27 INFO  LoginTest:22 - Login successful
+2025-04-22 23:26:27 INFO  BaseTest:103 - ChromeDriver: chrome on windows (4f2e7e4f484a28e4d09371005555bd22) Closing the browser
+2025-04-22 23:26:28 INFO  LoginTest:22 - Login successful
+2025-04-22 23:26:28 INFO  BaseTest:103 - FirefoxDriver: firefox on windows (3a94fe7d-6525-4408-8ac6-a5bf073c3544) Closing the browser
+2025-04-22 23:26:28 INFO  LoginTest:22 - Login successful
+2025-04-22 23:26:28 INFO  BaseTest:103 - EdgeDriver: MicrosoftEdge on windows (21003ea9eecdd22e7fbc2a0aa108b0c6) Closing the browser
+2025-04-22 23:26:32 INFO  BaseTest:85 - Driver instance created for browser: chrome Successfully
+2025-04-22 23:26:36 INFO  BaseTest:85 - Driver instance created for browser: edge Successfully
+2025-04-22 23:26:40 INFO  LoginTest:31 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-22 23:26:51 INFO  LoginTest:33 - Login successful
+2025-04-22 23:26:51 INFO  BaseTest:103 - ChromeDriver: chrome on windows (0a8c813313074f7aebfecb65bf047674) Closing the browser
+2025-04-22 23:26:54 INFO  BaseTest:85 - Driver instance created for browser: firefox Successfully
+2025-04-22 23:26:57 INFO  BaseTest:103 - EdgeDriver: MicrosoftEdge on windows (13e2f94fcd36ef601769c36a66ddd2a5) Closing the browser
+2025-04-22 23:27:01 INFO  LoginTest:31 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-22 23:27:05 INFO  LoginTest:33 - Login successful
+2025-04-22 23:27:05 INFO  BaseTest:103 - FirefoxDriver: firefox on windows (febb2069-0548-4974-83f6-6f6d230b123b) Closing the browser
+2025-04-22 23:27:14 INFO  BaseTest:39 - Loading properties file
+2025-04-22 23:27:14 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-22 23:27:22 INFO  BaseTest:85 - Driver instance created for browser: chrome Successfully
+2025-04-22 23:27:22 INFO  BaseTest:85 - Driver instance created for browser: edge Successfully
+2025-04-22 23:27:32 INFO  BaseTest:85 - Driver instance created for browser: firefox Successfully
+2025-04-22 23:27:43 INFO  BaseTest:103 - RemoteWebDriver: MicrosoftEdge on Windows 10 (22993064bdd335cd3fce630ac4d78aae) Closing the browser
+2025-04-22 23:27:43 INFO  BaseTest:103 - RemoteWebDriver: chrome on Windows 10 (4b40691c2362ae4b9cb5b40027af9e24) Closing the browser
+2025-04-22 23:27:46 INFO  LoginTest:20 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-22 23:27:47 INFO  BaseTest:85 - Driver instance created for browser: chrome Successfully
+2025-04-22 23:27:52 INFO  BaseTest:85 - Driver instance created for browser: edge Successfully
+2025-04-22 23:27:52 INFO  LoginTest:22 - Login successful
+2025-04-22 23:27:52 INFO  BaseTest:103 - RemoteWebDriver: firefox on Windows 10 (749fe519-3ebf-4d99-b464-f40dee63f6ac) Closing the browser
+2025-04-22 23:28:06 INFO  LoginTest:31 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-22 23:28:07 INFO  LoginTest:31 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-22 23:28:11 INFO  LoginTest:33 - Login successful
+2025-04-22 23:28:11 INFO  BaseTest:103 - RemoteWebDriver: chrome on Windows 10 (c94172d8c61c64ac75684137d4728787) Closing the browser
+2025-04-22 23:28:12 INFO  LoginTest:33 - Login successful
+2025-04-22 23:28:12 INFO  BaseTest:103 - RemoteWebDriver: MicrosoftEdge on Windows 10 (ea98c61cf1c2f2ec1a7087886c24fd04) Closing the browser
+2025-04-22 23:28:13 INFO  BaseTest:85 - Driver instance created for browser: firefox Successfully
+2025-04-22 23:28:31 INFO  LoginTest:31 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-22 23:28:34 INFO  LoginTest:33 - Login successful
+2025-04-22 23:28:34 INFO  BaseTest:103 - RemoteWebDriver: firefox on Windows 10 (3d3a03a4-5160-4ec4-b103-730ef54e4f76) Closing the browser
+2025-04-23 06:47:10 INFO  BaseTest:40 - Loading properties file
+2025-04-23 06:47:10 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-23 06:47:23 INFO  BaseTest:87 - Driver instance created for browser: chrome Successfully
+2025-04-23 06:47:34 INFO  LoginTest:20 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-23 06:47:44 ERROR LoginPage:46 - Login failed: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=135.0.7049.96)
+Build info: version: '4.30.0', revision: '509c7f17cc*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [639de27cd07ff080967106ca56502f3e, findElement {value=input[name='username'], using=css selector}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.96, chrome: {chromedriverVersion: 135.0.7049.97 (b41307079c9b..., userDataDir: C:\Users\Momitha\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52229}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52229/devtoo..., se:cdpVersion: 135.0.7049.96, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 639de27cd07ff080967106ca56502f3e
+2025-04-23 06:47:44 INFO  BaseTest:105 - ChromeDriver: chrome on windows (639de27cd07ff080967106ca56502f3e) Closing the browser
+2025-04-23 06:47:46 INFO  BaseTest:40 - Loading properties file
+2025-04-23 06:47:46 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-23 06:47:48 INFO  BaseTest:87 - Driver instance created for browser: chrome Successfully
+2025-04-23 06:47:55 INFO  BaseTest:87 - Driver instance created for browser: chrome Successfully
+2025-04-23 06:48:07 INFO  LoginTest:20 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-23 06:48:09 INFO  BaseTest:105 - ChromeDriver: chrome on windows (b6e3801d5e0c10d6f98963d2c7fb5c00) Closing the browser
+2025-04-23 06:48:18 INFO  LoginTest:22 - Login successful
+2025-04-23 06:48:18 INFO  BaseTest:105 - RemoteWebDriver: chrome on Windows 10 (c18f41f2a295c5e92d84f5a6e4a0c6d5) Closing the browser
+2025-04-23 06:48:22 INFO  BaseTest:87 - Driver instance created for browser: chrome Successfully
+2025-04-23 06:48:42 INFO  BaseTest:105 - RemoteWebDriver: chrome on Windows 10 (995fe2e6fb521f6104663c549094ef43) Closing the browser
+2025-04-23 21:07:40 INFO  BaseTest:40 - Loading properties file
+2025-04-23 21:07:40 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-23 21:07:52 INFO  BaseTest:87 - Driver instance created for browser: edge Successfully
+2025-04-23 21:07:52 INFO  BaseTest:87 - Driver instance created for browser: chrome Successfully
+2025-04-23 21:08:04 INFO  BaseTest:87 - Driver instance created for browser: firefox Successfully
+2025-04-23 21:08:13 INFO  BaseTest:105 - RemoteWebDriver: chrome on Windows 10 (049542e7ca3321751deabafbdd23c22e) Closing the browser
+2025-04-23 21:08:13 INFO  BaseTest:105 - RemoteWebDriver: MicrosoftEdge on Windows 10 (14da1041046f5d7c1adf5e05c08b311d) Closing the browser
+2025-04-23 21:08:17 INFO  LoginTest:20 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-23 21:08:20 INFO  BaseTest:87 - Driver instance created for browser: chrome Successfully
+2025-04-23 21:08:23 INFO  LoginTest:22 - Login successful
+2025-04-23 21:08:23 INFO  BaseTest:105 - RemoteWebDriver: firefox on Windows 10 (ae77c640-6d7c-416f-aa94-49c4c3888fef) Closing the browser
+2025-04-23 21:08:26 INFO  BaseTest:87 - Driver instance created for browser: edge Successfully
+2025-04-23 21:08:36 INFO  LoginTest:31 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-23 21:08:41 INFO  LoginTest:33 - Login successful
+2025-04-23 21:08:41 INFO  BaseTest:105 - RemoteWebDriver: chrome on Windows 10 (fb718930f3f8d91709c1240c0e6749f1) Closing the browser
+2025-04-23 21:08:44 INFO  BaseTest:87 - Driver instance created for browser: firefox Successfully
+2025-04-23 21:08:47 INFO  BaseTest:105 - RemoteWebDriver: MicrosoftEdge on Windows 10 (5b47ebf8fcc9d1f2274c16096eff1052) Closing the browser
+2025-04-23 21:09:01 INFO  LoginTest:31 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-04-23 21:09:04 INFO  LoginTest:33 - Login successful
+2025-04-23 21:09:04 INFO  BaseTest:105 - RemoteWebDriver: firefox on Windows 10 (2231506e-2538-4122-8f89-4a18b771dcc5) Closing the browser
+2025-04-23 21:16:25 INFO  BaseTest:40 - Loading properties file
+2025-04-23 21:16:25 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-04-23 21:16:32 INFO  BaseTest:87 - Driver instance created for browser: chrome Successfully
+2025-04-23 21:16:53 INFO  BaseTest:105 - RemoteWebDriver: chrome on Windows 10 (7a53d19b5158d898bb52b65f96cde6fe) Closing the browser
+2025-04-23 21:16:57 INFO  BaseTest:87 - Driver instance created for browser: chrome Successfully
+2025-04-23 21:17:17 INFO  BaseTest:105 - RemoteWebDriver: chrome on Windows 10 (a6b083ac05520f4719068f68fb8fbe50) Closing the browser
+2025-05-03 08:45:44 INFO  BaseTest:40 - Loading properties file
+2025-05-03 08:45:44 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-05-03 08:47:55 INFO  BaseTest:40 - Loading properties file
+2025-05-03 08:47:55 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-05-03 08:48:57 INFO  BaseTest:40 - Loading properties file
+2025-05-03 08:48:57 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-05-03 08:59:33 INFO  BaseTest:40 - Loading properties file
+2025-05-03 08:59:33 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-05-03 08:59:59 INFO  BaseTest:40 - Loading properties file
+2025-05-03 08:59:59 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-05-03 09:18:15 INFO  BaseTest:40 - Loading properties file
+2025-05-03 09:18:31 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-05-03 09:24:07 INFO  BaseTest:40 - Loading properties file
+2025-05-03 09:24:07 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-05-03 09:24:14 INFO  BaseTest:87 - Driver instance created for browser: chrome Successfully
+2025-05-03 09:24:18 INFO  LoginTest:20 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-05-03 09:24:22 INFO  LoginTest:22 - Login successful
+2025-05-03 09:24:22 INFO  BaseTest:105 - RemoteWebDriver: chrome on Windows 10 (63ed8c24a174ed15c68b3b8fd6d70267) Closing the browser
+2025-05-03 09:24:25 INFO  BaseTest:87 - Driver instance created for browser: chrome Successfully
+2025-05-03 09:24:29 INFO  LoginTest:31 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-05-03 09:24:33 INFO  LoginTest:33 - Login successful
+2025-05-03 09:24:33 INFO  BaseTest:105 - RemoteWebDriver: chrome on Windows 10 (ef318355df3307daab60f3422e913f4c) Closing the browser
+2025-05-03 09:25:16 INFO  BaseTest:40 - Loading properties file
+2025-05-03 09:25:16 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-05-03 09:30:07 INFO  BaseTest:40 - Loading properties file
+2025-05-03 09:30:07 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-05-03 09:30:11 INFO  BaseTest:87 - Driver instance created for browser: chrome Successfully
+2025-05-03 09:30:15 INFO  LoginTest:20 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-05-03 09:30:19 INFO  LoginTest:22 - Login successful
+2025-05-03 09:30:19 INFO  BaseTest:105 - RemoteWebDriver: chrome on Windows 10 (f6291e3bcfd92603022d742bb0618e8d) Closing the browser
+2025-05-03 09:30:22 INFO  BaseTest:87 - Driver instance created for browser: chrome Successfully
+2025-05-03 09:30:26 INFO  LoginTest:31 - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-05-03 09:30:29 INFO  LoginTest:33 - Login successful
+2025-05-03 09:30:29 INFO  BaseTest:105 - RemoteWebDriver: chrome on Windows 10 (7fde168d9b66ae82b7aee94e98339b09) Closing the browser
+2025-05-03 09:30:55 INFO  BaseTest:40 - Loading properties file
+2025-05-03 09:30:55 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-05-03 09:30:59 INFO  BaseTest:87 - Driver instance created for browser: chrome Successfully
+2025-05-03 09:31:00 INFO  BaseTest:105 - RemoteWebDriver: chrome on Windows 10 (d5a3dab4a01e9aa0625c7d709fd74d5d) Closing the browser
+2025-05-03 09:35:24 INFO  BaseTest:40 - Loading properties file
+2025-05-03 09:35:24 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-05-03 09:36:10 INFO  BaseTest:40 - Loading properties file
+2025-05-03 09:36:10 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-05-03 09:36:14 INFO  BaseTest:87 - Driver instance created for browser: chrome Successfully
+2025-05-03 09:36:21 INFO  WindowsPage:26 - Clicked on the button to open new tab
+2025-05-03 09:36:22 INFO  BaseTest:105 - RemoteWebDriver: chrome on Windows 10 (0ed74091eb0cc1c70c61d4e086a3ace7) Closing the browser
+2025-05-03 09:42:46 INFO  BaseTest:40 - Loading properties file
+2025-05-03 09:42:46 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-05-03 09:42:50 INFO  BaseTest:87 - Driver instance created for browser: chrome Successfully
+2025-05-03 09:43:00 INFO  WindowsPage:26 - Clicked on the button to open new tab
+2025-05-03 09:53:06 INFO  BaseTest:40 - Loading properties file
+2025-05-03 09:53:06 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-05-03 09:53:09 INFO  BaseTest:87 - Driver instance created for browser: chrome Successfully
+2025-05-03 09:53:20 INFO  WindowsPage:26 - Clicked on the button to open new tab
+2025-05-03 09:53:22 INFO  LoginTest:42 - Clicked on the downloads linkDownloads | Selenium
+2025-05-03 10:09:21 INFO  BaseTest:40 - Loading properties file
+2025-05-03 10:09:21 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-05-03 10:09:23 INFO  BaseTest:87 - Driver instance created for browser: chrome Successfully
+2025-05-03 10:09:28 INFO  WindowsPage:37 - Clicked on the button to open new separate window
+2025-05-03 10:09:30 INFO  LoginTest:68 - Clicked on the downloads link: Downloads | Selenium
+2025-05-03 10:10:35 INFO  BaseTest:40 - Loading properties file
+2025-05-03 10:10:35 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-05-03 10:10:36 INFO  BaseTest:87 - Driver instance created for browser: chrome Successfully
+2025-05-03 10:10:41 INFO  WindowsPage:42 - Clicked on the button to open new multiple window
+2025-05-03 10:11:04 INFO  BaseTest:40 - Loading properties file
+2025-05-03 10:11:04 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-05-03 10:11:05 INFO  BaseTest:87 - Driver instance created for browser: chrome Successfully
+2025-05-03 10:11:10 INFO  WindowsPage:42 - Clicked on the button to open new multiple window
+2025-05-03 10:11:32 INFO  BaseTest:40 - Loading properties file
+2025-05-03 10:11:32 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-05-03 10:11:44 INFO  BaseTest:40 - Loading properties file
+2025-05-03 10:11:44 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-05-03 10:12:25 INFO  BaseTest:40 - Loading properties file
+2025-05-03 10:12:25 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-05-03 10:13:13 INFO  BaseTest:40 - Loading properties file
+2025-05-03 10:13:13 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-05-03 10:13:15 INFO  BaseTest:87 - Driver instance created for browser: chrome Successfully
+2025-05-03 10:13:18 INFO  WindowsPage:42 - Clicked on the button to open new multiple window
+2025-05-03 10:13:20 INFO  LoginTest:94 - Clicked on the downloads link: Downloads | Selenium
+2025-05-03 10:24:40 INFO  BaseTest:40 - Loading properties file
+2025-05-03 10:24:40 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-05-03 10:24:42 INFO  BaseTest:87 - Driver instance created for browser: chrome Successfully
+2025-05-03 10:24:45 INFO  WindowsPage:42 - Clicked on the button to open new multiple window
+2025-05-03 10:24:47 INFO  LoginTest:94 - Clicked on the downloads link: Downloads | Selenium
+2025-05-03 10:24:47 INFO  BaseTest:105 - RemoteWebDriver: chrome on Windows 10 (9c3b302b3ca5b7f83d8babd0e8e9b5fe) Closing the browser
+2025-05-03 10:24:48 INFO  BaseTest:87 - Driver instance created for browser: chrome Successfully
+2025-05-03 10:24:54 INFO  WindowsPage:37 - Clicked on the button to open new separate window
+2025-05-03 10:24:55 INFO  LoginTest:68 - Clicked on the downloads link: Downloads | Selenium
+2025-05-03 10:24:55 INFO  BaseTest:105 - RemoteWebDriver: chrome on Windows 10 (4171b23e122dc111169e29738af5b78e) Closing the browser
+2025-05-03 10:24:56 INFO  BaseTest:87 - Driver instance created for browser: chrome Successfully
+2025-05-03 10:25:01 INFO  WindowsPage:32 - Clicked on the button to open new tabbed window
+2025-05-03 10:25:02 INFO  LoginTest:42 - Clicked on the downloads link: Downloads | Selenium
+2025-05-03 10:25:02 INFO  BaseTest:105 - RemoteWebDriver: chrome on Windows 10 (1dc9551ca3b15d7e4f364839e7d4b63b) Closing the browser
+2025-05-03 15:43:27 INFO  BaseTest:40 - Loading properties file
+2025-05-03 15:43:27 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-05-03 15:43:30 INFO  BaseTest:87 - Driver instance created for browser: chrome Successfully
+2025-05-03 15:43:40 INFO  WindowsPage:42 - Clicked on the button to open new multiple window
+2025-05-03 15:43:43 INFO  LoginTest:91 - Clicked on the downloads link: Downloads | Selenium
+2025-05-03 15:43:43 INFO  BaseTest:105 - RemoteWebDriver: chrome on Windows 10 (53d667afcef16938ba5919008c244385) Closing the browser
+2025-05-03 15:43:47 INFO  BaseTest:87 - Driver instance created for browser: chrome Successfully
+2025-05-03 15:43:55 INFO  WindowsPage:37 - Clicked on the button to open new separate window
+2025-05-03 15:43:56 INFO  LoginTest:62 - Window: Frames & windows
+2025-05-03 15:43:56 INFO  LoginTest:62 - Window: Frames & windows
+2025-05-03 15:43:58 INFO  LoginTest:71 - Clicked on the downloads link: Downloads | Selenium
+2025-05-03 15:43:58 INFO  BaseTest:105 - RemoteWebDriver: chrome on Windows 10 (839186ee164fb5a2935dfb458419a099) Closing the browser
+2025-05-03 15:44:02 INFO  BaseTest:87 - Driver instance created for browser: chrome Successfully
+2025-05-03 15:44:11 INFO  WindowsPage:32 - Clicked on the button to open new tabbed window
+2025-05-03 15:44:12 INFO  LoginTest:44 - Clicked on the downloads link: Downloads | Selenium
+2025-05-03 15:44:12 INFO  BaseTest:105 - RemoteWebDriver: chrome on Windows 10 (dfb637b5e4dba5997f7bf3b16262d3f0) Closing the browser
+2025-05-03 15:47:38 INFO  BaseTest:40 - Loading properties file
+2025-05-03 15:47:38 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-05-03 15:47:42 INFO  BaseTest:87 - Driver instance created for browser: chrome Successfully
+2025-05-03 15:47:50 INFO  WindowsPage:42 - Clicked on the button to open new multiple window
+2025-05-03 15:47:51 INFO  LoginTest:96 - Switching to window: Frames & windows
+2025-05-03 15:47:51 INFO  LoginTest:96 - Switching to window: Frames & windows
+2025-05-03 15:47:52 INFO  LoginTest:96 - Switching to window: Selenium
+2025-05-03 15:47:52 INFO  BaseTest:105 - RemoteWebDriver: chrome on Windows 10 (60a3c4be5eb5c898e23738ad29cae935) Closing the browser
+2025-05-03 15:55:46 INFO  BaseTest:40 - Loading properties file
+2025-05-03 15:55:46 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-05-03 15:55:49 INFO  BaseTest:87 - Driver instance created for browser: chrome Successfully
+2025-05-03 15:55:58 INFO  WindowsPage:42 - Clicked on the button to open new multiple window
+2025-05-03 15:55:59 INFO  PropertyUtil:16 - Switching to window: Frames & windows
+2025-05-03 15:55:59 INFO  PropertyUtil:16 - Switching to window: Frames & windows
+2025-05-03 15:56:04 INFO  LoginTest:91 - Clicked on the downloads link: Downloads | Selenium
+2025-05-03 15:56:04 INFO  BaseTest:105 - RemoteWebDriver: chrome on Windows 10 (9de38644ffcc8a36cce009371089f767) Closing the browser
+2025-05-03 16:28:27 INFO  BaseTest:40 - Loading properties file
+2025-05-03 16:28:27 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-05-03 16:28:30 INFO  BaseTest:87 - Driver instance created for browser: chrome Successfully
+2025-05-03 16:28:40 INFO  WindowsPage:42 - Clicked on the button to open new multiple window
+2025-05-03 16:28:41 INFO  SeleniumUtil:20 - Switching to window: Frames & windows
+2025-05-03 16:28:41 INFO  SeleniumUtil:20 - Switching to window: Frames & windows
+2025-05-03 16:28:43 INFO  LoginTest:83 - Clicked on the downloads link: Downloads | Selenium
+2025-05-03 16:28:43 INFO  BaseTest:105 - RemoteWebDriver: chrome on Windows 10 (1cdb59d68a0090f0b5559db31ba98fb3) Closing the browser
+2025-05-03 16:33:37 INFO  BaseTest:40 - Loading properties file
+2025-05-03 16:33:37 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-05-03 16:33:41 INFO  BaseTest:87 - Driver instance created for browser: chrome Successfully
+2025-05-03 16:33:51 INFO  WindowsPage:45 - Clicked on the button to open new multiple window
+2025-05-03 16:33:52 INFO  SeleniumUtil:20 - Switching to window: Frames & windows
+2025-05-03 16:33:52 INFO  SeleniumUtil:20 - Switching to window: Frames & windows
+2025-05-03 16:33:54 INFO  WindowsPage:50 - Clicked on the downloads link: Downloads | Selenium
+2025-05-03 16:33:54 INFO  BaseTest:105 - RemoteWebDriver: chrome on Windows 10 (7b2bc1d670b9bc4e2490029fe7e89d5b) Closing the browser
+2025-05-03 16:34:40 INFO  BaseTest:40 - Loading properties file
+2025-05-03 16:34:40 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-05-03 16:34:44 INFO  BaseTest:87 - Driver instance created for browser: chrome Successfully
+2025-05-03 16:34:54 INFO  WindowsPage:45 - Clicked on the button to open new multiple window
+2025-05-03 16:34:54 INFO  SeleniumUtil:20 - Switching to window: Frames & windows
+2025-05-03 16:34:55 INFO  SeleniumUtil:20 - Switching to window: Frames & windows
+2025-05-03 16:34:56 INFO  WindowsPage:50 - Clicked on the downloads link: Downloads | Selenium
+2025-05-03 16:34:57 INFO  BaseTest:105 - RemoteWebDriver: chrome on Windows 10 (6f5c339e09ee5aa4af215aef221a9c6b) Closing the browser
+2025-05-03 22:18:48 INFO  BaseTest:40 - Loading properties file
+2025-05-03 22:18:48 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-05-03 22:18:50 INFO  BaseTest:87 - Driver instance created for browser: chrome Successfully
+2025-05-03 22:18:50 INFO  BaseTest:105 - RemoteWebDriver: chrome on Windows 10 (b1f0a5dcdf17b6b276da32c3e0b2412c) Closing the browser
+2025-05-03 22:21:51 INFO  BaseTest:40 - Loading properties file
+2025-05-03 22:21:51 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-05-03 22:21:52 INFO  BaseTest:87 - Driver instance created for browser: chrome Successfully
+2025-05-03 22:22:00 INFO  FrameTest:17 - Navigated to URL: https://demo.automationtesting.in/Frames.html
+2025-05-03 22:22:00 INFO  FrameTest:21 - Switched to frame: singleframe
+2025-05-03 22:22:00 INFO  BaseTest:105 - RemoteWebDriver: chrome on Windows 10 (6b087e889a9d9accd2246e7668786b29) Closing the browser
+2025-05-03 22:22:33 INFO  BaseTest:40 - Loading properties file
+2025-05-03 22:22:33 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-05-03 22:22:35 INFO  BaseTest:87 - Driver instance created for browser: chrome Successfully
+2025-05-03 22:22:38 INFO  FrameTest:17 - Navigated to URL: https://demo.automationtesting.in/Frames.html
+2025-05-03 22:22:38 INFO  FrameTest:21 - Switched to frame: singleframe
+2025-05-03 22:46:09 INFO  BaseTest:40 - Loading properties file
+2025-05-03 22:46:09 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-05-03 22:56:03 INFO  BaseTest:40 - Loading properties file
+2025-05-03 22:56:03 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-05-03 22:56:55 INFO  BaseTest:40 - Loading properties file
+2025-05-03 22:56:55 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-05-03 22:58:04 INFO  BaseTest:40 - Loading properties file
+2025-05-03 22:58:04 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-05-03 22:58:08 INFO  BaseTest:87 - Driver instance created for browser: chrome Successfully
+2025-05-03 22:58:12 INFO  FrameTest:18 - Navigated to URL: https://demo.automationtesting.in/Frames.html
+2025-05-03 22:58:12 INFO  FrameTest:22 - Switched to frame: singleframe
+2025-05-03 22:59:00 INFO  BaseTest:40 - Loading properties file
+2025-05-03 22:59:00 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-05-03 22:59:04 INFO  BaseTest:87 - Driver instance created for browser: chrome Successfully
+2025-05-03 22:59:07 INFO  FrameTest:32 - Navigated to URL: https://demo.automationtesting.in/Frames.html
+2025-05-03 22:59:07 INFO  FrameTest:36 - Clicked on the Iframe with in an Iframe tab
+2025-05-03 23:02:49 INFO  BaseTest:40 - Loading properties file
+2025-05-03 23:02:49 INFO  PropertyUtil:29 - Properties file loaded successfully
+2025-05-03 23:02:53 INFO  BaseTest:87 - Driver instance created for browser: chrome Successfully
+2025-05-03 23:02:56 INFO  FrameTest:32 - Navigated to URL: https://demo.automationtesting.in/Frames.html
+2025-05-03 23:02:56 INFO  FrameTest:36 - Clicked on the Iframe with in an Iframe tab

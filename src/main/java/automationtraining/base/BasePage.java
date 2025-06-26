@@ -11,22 +11,30 @@ import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import com.aventstack.extentreports.ExtentTest;
+
 import automationtraining.exception.WebElementException;
 
 public class BasePage extends AbstractBase {
 
 	private WebDriver driver;
 	private WebDriverWait explicitWait;
+	private ExtentTest extentTest;
 	private final static Logger logger=LogManager.getLogger(BasePage.class);
 	
-	public BasePage(WebDriver driver){
+	public BasePage(WebDriver driver, ExtentTest extentTest){
 		this.driver=driver;
+		this.extentTest=extentTest;
 		this.explicitWait=new WebDriverWait(driver, Duration.ofSeconds(10));
 		PageFactory.initElements(driver,this);
 	}
 	
 	public WebDriver getDriver() {
 		return driver;
+	}
+	
+	protected ExtentTest getExtentTest() {
+		return extentTest;
 	}
 	
 	protected void enterText(WebElement element, String text) {
